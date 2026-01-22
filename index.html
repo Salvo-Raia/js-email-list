@@ -20,13 +20,16 @@
 <body>
     <header class="py-2 ps-4">
         <h1 class>Random e-Mail Generator</h1>
-        <h4>Il tuo generatore di mail casuali</h2>
+        <h4>Il tuo generatore di mail casuali 🤫</h2>
     </header>
 
     <main>
         <div class="container d-flex flex-column align-items-center gap-4 mt-4">
-            <p>👇 Clicca il bottone per generare una lista di <strong>10 mail</strong> casuali! 👇</p>
+            <p class="text-center">👇 Clicca il bottone per generare una lista di <strong>10 mail</strong> casuali! 👇 <br>
+            I tuoi affari loschi sono al sicuro con una mail anonima
+            </p>
             <button class="btn btn-success"><i class="bi bi-arrow-clockwise px-1"></i>Genera mail casuali</button>
+            <p id="status" class="alert alert-warning d-none">⌛ Caricamento... </p>
             <ul id="mail-list" class="list-unstyled text-white bg-success border rounded p-4 d-none">
             <!-- list item added by script.js -->
             </ul>
