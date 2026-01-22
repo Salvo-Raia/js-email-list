@@ -1,11 +1,14 @@
 console.log("JS is ready");
 const mailList = document.getElementById("mail-list")
 
-axios.get("https://flynn.boolean.careers/exercises/api/random/ail")
-     .then((response) => {
+for (let i = 0; i < 10; i++) {
+    axios.get("https://flynn.boolean.careers/exercises/api/random/mail")
+    .then((response) => {
         const randomMail = response.data.response;
         console.log(randomMail);
-})
-.catch((error) => {
-    console.log(error.message);
-})
+    })
+    .catch((error) => {
+        console.log(error.message);
+    })
+}
+    
