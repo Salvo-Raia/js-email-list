@@ -1,6 +1,8 @@
-![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 30/50 - E-mail List
+# 🎓 Exercise 30/50: E-mail List
+
+Fetching random email addresses from an external API using JavaScript, handling asynchronous requests, and dynamically displaying and refreshing the results in the DOM.
 
 ## 📌 Project Overview
 
@@ -21,13 +23,13 @@ Use the Boolean API to generate **10 random email addresses** and display them o
 
 Retrieve the email addresses by making API requests and display the results once they have been collected.
 
-## ⭐ Bonus
+### ⭐ Bonus
 
-### 1. Improve the Design
+#### 1. Improve the Design
 
 Make the page more visually appealing using CSS or Bootstrap.
 
-### 2. Generate New Email Addresses
+#### 2. Generate New Email Addresses
 
 Add a button that, when clicked, performs another fetch request to retrieve **10 new random email addresses**, replacing the ones currently displayed on the page.
 
@@ -46,4 +48,4 @@ Add a button that, when clicked, performs another fetch request to retrieve **10
 
 ## ©️ Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
