@@ -14,11 +14,11 @@ Fetching random email addresses from an external API using JavaScript, handling 
 
 Use the Boolean API to generate **10 random email addresses** and display them on the page inside a list.
 
+Retrieve the email addresses by making API requests and display the results once they have been collected.
+
 **API endpoint**
 
 `https://flynn.boolean.careers/exercises/api/random/mail`
-
-Retrieve the email addresses by making API requests and display the results once they have been collected.
 
 #### Bonus challenge
 
