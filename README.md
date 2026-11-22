@@ -14,7 +14,7 @@ Fetching random email addresses from an external API using JavaScript, handling 
 
 Use the Boolean API to generate **10 random email addresses** and display them on the page inside a list.
 
-**API endpoint:**
+**API endpoint**
 
 `https://flynn.boolean.careers/exercises/api/random/mail`
 
@@ -22,13 +22,18 @@ Retrieve the email addresses by making API requests and display the results once
 
 #### Bonus challenge
 
+Try to implement the following additional improvements.
+
 - Make the page more visually appealing using CSS or Bootstrap.
 
 - Add a button that, when clicked, performs another fetch request to retrieve **10 new random email addresses**, replacing the ones currently displayed on the page.
 
 ## Technologies
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 
 ## What I learned
 
