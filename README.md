@@ -8,7 +8,7 @@ Fetching random email addresses from an external API using JavaScript, handling 
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| js-email-list | E-mail List | Exercise | JavaScript, fetch API and DOM manipulation | 30/50 |
+| js-email-list | E-mail List | Exercise | JavaScript, Fetch API and DOM manipulation | 30/50 |
 
 ## Assignment
 
