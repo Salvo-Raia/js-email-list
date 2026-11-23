@@ -25,7 +25,6 @@ Retrieve the email addresses by making API requests and display the results once
 Try to implement the following additional improvements.
 
 - Make the page more visually appealing using CSS or Bootstrap.
-
 - Add a button that, when clicked, performs another fetch request to retrieve **10 new random email addresses**, replacing the ones currently displayed on the page.
 
 ## Technologies
